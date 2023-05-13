@@ -1,0 +1,14 @@
+#inner_div{
+    height: 500px;
+    width: 500px;
+    background-color:rgb(155, 31, 172);
+    align-items: center;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+    
+
+}
